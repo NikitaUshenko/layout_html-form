@@ -54,3 +54,4 @@ Add attribute `data-qa="field-placeholder"` to test it correctly.
 
 - [DEMO LINK](https://nikitaushenko.github.io/layout_html-form/)
 - [TEST REPORT LINK](https://nikitaushenko.github.io/layout_html-form/report/html_report/)
+
