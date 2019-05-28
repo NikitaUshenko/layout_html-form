@@ -3,7 +3,7 @@ label {
   margin-bottom: 10px;
 }
 
-label > label {
+div > label {
   display: inline;
 }
 
@@ -17,4 +17,8 @@ fieldset {
 
 .age {
   width: 65px;
+}
+
+div {
+  margin-bottom: 10px;
 }
